@@ -1,0 +1,43 @@
+{
+  "name": "apiServices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinoh47/apiServices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevinoh47/apiServices/issues"
+  },
+  "homepage": "https://github.com/Kevinoh47/apiServices#readme",
+  "dependencies": {
+    "@babel/plugin-transform-async-to-generator": "^7.1.0",
+    "babel-core": "^6.26.3",
+    "babel-env": "^2.4.1",
+    "babel-eslint": "^10.0.1",
+    "babel-register": "^6.26.0",
+    "bcrypt": "^3.0.2",
+    "cors": "^2.8.5",
+    "debug": "^4.1.0",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "jest-mongoose-mock": "^1.2.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb-memory-server": "^2.7.3",
+    "mongoose": "^5.3.13",
+    "mongoose-json-schema": "0.0.7",
+    "mongoose-schema-jsonschema": "^1.1.15",
+    "morgan": "^1.9.1",
+    "require-directory": "^2.1.1",
+    "superagent": "^4.0.0",
+    "supertest": "^3.3.0"
+  }
+}

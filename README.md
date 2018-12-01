@@ -17,4 +17,4 @@ As a developer I would like an API that did the following:
    * An API that will support multiple users at the same time and able to store their data. 
    * Have unit tests which assures the developers that everything is working correctly.
    * The ability to manage player stats.
-
+   * Have the ability to validate the name in the token payload to ensure it validates user.
